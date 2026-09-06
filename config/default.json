@@ -1,0 +1,4 @@
+{
+  "mongoURI": "your_mongo_uri_here",
+  "port": 5000
+}
